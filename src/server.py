@@ -1,5 +1,3 @@
-# Assisted by watsonx Code Assistant
-
 from fastapi import FastAPI
 
 app = FastAPI()
